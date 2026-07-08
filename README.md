@@ -72,4 +72,4 @@ arXiv preprint arXiv:2411.11660.
 
 ## Acknowledgments
 
-Special thanks to the supervisor Dr. Germán Rodrigo for his guidance throughout the project.
+Special thanks to Dr. Germán Rodrigo for his guidance throughout the project.
