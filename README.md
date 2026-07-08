@@ -68,7 +68,7 @@ SIAM Journal on Scientific Computing, 33(5), 2295-2317.
 Pereira, A., Villarino, A., Cortines, A., Mugel, S., Orús, R., Leme Beltran, V., Scursulim, J. V. S., & Brito, S. (2024).
 *Encoding of Probability Distributions for Quantum Monte Carlo Using Tensor Networks.*
 arXiv preprint arXiv:2411.11660.  
-[URL: https://arxiv.org/abs/2411.11660](https://arxiv.org/abs/2411.11660)
+[DOI: 10.48550/arXiv.2411.11660](https://doi.org/10.48550/arXiv.2411.11660)
 
 ## Acknowledgments
 
