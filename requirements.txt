@@ -1,0 +1,4 @@
+jax>=0.10.2
+matplotlib>=3.11.0
+pennylane>=0.45.1
+
